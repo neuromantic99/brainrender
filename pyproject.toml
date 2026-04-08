@@ -15,7 +15,8 @@ dependencies = [
     "h5py",
     "k3d",
     "loguru",
-    "morphapi>=0.3.3",
+    "lxml>=6.0.2",
+    "morphapi>=0.2.1",
     "msgpack",
     "myterial",
     "numpy",
@@ -26,7 +27,7 @@ dependencies = [
     "requests",
     "tables",
     "vedo>=2025.5.3",
-    "vtk"
+    "vtk",
 ]
 
 license = { text = "BSD-3-Clause" }
